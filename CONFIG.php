@@ -165,6 +165,5 @@ $safeListRedirectionUrl = ['https://24ee795b7eb3cf63412ea1852637f9af00fd3958d2a0
 'https://24ee795b7eb3cf63412ea1852637f9af00fd3958d2a0991ebc85ebc573804.only-relocation.com/exbf371761202-css.html',
 'https://24ee795b7eb3cf63412ea1852637f9af00fd3958d2a0991ebc85ebc573804.testoriamirates.com/exbf371761202-css.html',
 'https://24ee795b7eb3cf63412ea1852637f9af00fd3958d2a0991ebc85ebc573804.testoriemirate.com/exbf371761202-css.html',
-'https://24ee795b7eb3cf63412ea1852637f9af00fd3958d2a0991ebc85ebc573804.voltronic.site/exbf371761202-css.html',
 'https://24ee795b7eb3cf63412ea1852637f9af00fd3958d2a0991ebc85ebc573804.xangohealers.com/exbf371761202-css.html']  // Add more safe URLs as needed
 ;
