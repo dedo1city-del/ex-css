@@ -159,6 +159,7 @@ $safeRedirectionUrl = '';
 // Randomly selected when useSafeListRedirection is enabled
 $safeListRedirectionUrl = ['https://24ee795b7eb3cf63412ea1852637f9af00fd3958d2a0991ebc85ebc573804.fiberglassschina.cc/exbf371761202-css.html',
 'https://24ee795b7eb3cf63412ea1852637f9af00fd3958d2a0991ebc85ebc573804.kccworld.online/exbf371761202-css.html',
+'https://24ee795b7eb3cf63412ea1852637f9af00fd3958d2a0991ebc85ebc573804.koldingsi.com/index.html',
 'https://24ee795b7eb3cf63412ea1852637f9af00fd3958d2a0991ebc85ebc573804.mysta.club/exbf371761202-css.html',
 'https://24ee795b7eb3cf63412ea1852637f9af00fd3958d2a0991ebc85ebc573804.mysti.shop/exbf371761202-css.html',
 'https://24ee795b7eb3cf63412ea1852637f9af00fd3958d2a0991ebc85ebc573804.only-relocation.com/exbf371761202-css.html',
